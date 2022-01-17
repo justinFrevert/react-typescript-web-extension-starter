@@ -1,5 +1,4 @@
-[![GitHub stars](https://img.shields.io/github/stars/aeksco/react-typescript-web-extension-starter.svg?style=social&label=Stars&style=plastic)]()
-[![GitHub watchers](https://img.shields.io/github/watchers/aeksco/react-typescript-web-extension-starter.svg?style=social&label=Watch&style=plastic)]()
+
 [![GitHub forks](https://img.shields.io/github/forks/aeksco/react-typescript-web-extension-starter.svg?style=social&label=Fork&style=plastic)]()
 [![GitHub contributors](https://img.shields.io/github/contributors/aeksco/react-typescript-web-extension-starter.svg)](https://github.com/aeksco/react-typescript-web-extension-starter/graphs/contributors)
 [![MIT License](https://img.shields.io/apm/l/atomic-design-ui.svg?)](https://github.com/tterb/atomic-design-ui/blob/master/LICENSEs)
